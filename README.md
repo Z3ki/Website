@@ -1,26 +1,32 @@
-# My Python Journey
+# Personal Portfolio Website
 
-This is my personal website showcasing my journey in learning Python and web development.
+Welcome to my personal portfolio website repository! This website showcases my skills, projects, and professional journey.
 
 ## About
-This website serves as a portfolio and learning diary for my programming journey, with a focus on Python development. It includes sections about my skills, projects, and contact information.
+This is a modern, responsive portfolio website built with the latest web technologies. It serves as a platform to showcase my work and connect with others in the tech community.
 
 ## Built With
-- HTML
-- CSS
-- Built with Aide AI
+- HTML5
+- CSS3
+- JavaScript
+- Vite.js
+- Node.js
 
 ## Features
-- Responsive design
-- Clean and modern interface
-- Sections for:
-	- About Me
-	- Skills
-	- Projects
-	- Contact Information
+- Modern and clean design
+- Responsive layout for all devices
+- Interactive UI elements
+- Fast loading with Vite.js
+- Optimized performance
+
+## Development
+To run this project locally:
+1. Clone the repository
+2. Install dependencies with `npm install`
+3. Run development server with `npm run dev`
 
 ## Visit Website
-You can visit the website at: https://Z3ki.github.io
+You can visit the live website at: https://Z3ki.github.io
 
 ## License
-© 2024 My Python Journey
+ 2024 All Rights Reserved
