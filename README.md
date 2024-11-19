@@ -20,7 +20,7 @@ This website serves as a portfolio and learning diary for my programming journey
 	- Contact Information
 
 ## Visit Website
-You can visit the website at: https://[your-github-username].github.io/[repository-name]
+You can visit the website at: https://Z3ki.github.io/Website
 
 ## License
 © 2024 My Python Journey
